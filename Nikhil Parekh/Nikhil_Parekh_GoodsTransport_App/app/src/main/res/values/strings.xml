@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NGT</string>
+    <string name="nikhil">Nikhil</string>
+    <string name="skills"><![CDATA[Skills & Expertise]]></string>
+    <string name="NSp">Nikhil Sanjaybhai Parekh</string>
+    <string name="dob">  DOB : 3rd January 2000</string>
+    <string name="address">Valsad, Gujarat, India</string>
+    <string name="action_settings">Settings</string>
+    <string name="loginintro">Digitise your logistic services and manage your truck fleet at your fingertips.</string>
+
+</resources>
